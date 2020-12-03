@@ -1,0 +1,117 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.banner-text{
+    padding: 63px 10px;
+
+}
+.banner-text h2{
+    color: aqua;
+}
+.banner-text h3{
+    font-size: 18px;
+
+}
+.btn-one{
+   margin: 0 auto;
+   display: block;
+   background-color: black;
+   color: white;
+}
+.banner-img img{
+    width: 500px;
+}
+.phone-text h4{
+    font-size: 30px;
+}
+.all-see h4{
+    color: orange;
+    font-size: 22px;
+    margin-left: 266px;
+}
+.iphone{
+    padding: 40px 0px;
+}
+
+}
+.iphone img{
+    width: 100px;
+
+}
+.iphone h2{
+    font-size: 24px;
+    text-align: center;
+
+}
+.iphone h3{
+    font-size: 16px;
+    text-align: center;
+
+
+}
+.buynow-btn{
+    display: block;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    margin: 0 auto;
+
+}
+.samsung{
+    padding: 40px 0px;
+}
+
+}
+.samsung img{
+    width: 100px;
+
+}
+.samsung h2{
+    font-size: 24px;
+    text-align: center;
+
+}
+.samsung h3{
+    font-size: 16px;
+    text-align: center;
+
+
+}
+.xiaomi{
+    padding: 40px 0px;
+}
+
+}
+.xiaomi img{
+    width: 100px;
+
+}
+.xiaomi h2{
+    font-size: 24px;
+    text-align: center;
+
+}
+.xiaomi h3{
+    font-size: 16px;
+    text-align: center;
+
+}
+.ct-text{
+    text-align: center;
+    font-size: 35px;
+}
+.ct-text span{
+    display: block;
+    margin: 0 auto;
+    border-bottom: 2px solid orange;
+    width: 100px;
+
+}
+.shoe img{
+    padding: 20px;
+}
+.pale img{
+    width: 400px;
+
+}
